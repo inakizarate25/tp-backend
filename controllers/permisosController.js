@@ -1,4 +1,4 @@
-// controllers/permisosController.js
+
 const Permiso = require('../models/permiso');
 
 module.exports = {

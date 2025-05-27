@@ -1,4 +1,4 @@
-// models/permiso.js
+
 const db = require('./db');
 
 module.exports = {

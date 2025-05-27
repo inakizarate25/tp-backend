@@ -1,4 +1,4 @@
-// models/rol.js
+
 const db = require('./db');
 
 module.exports = {

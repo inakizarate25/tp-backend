@@ -1,4 +1,4 @@
-// models/init.js
+
 const db = require('./db');
 
 db.serialize(() => {

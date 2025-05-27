@@ -1,4 +1,4 @@
-// controllers/usersController.js
+
 const User = require('../models/user');
 const Rol = require('../models/rol');
 

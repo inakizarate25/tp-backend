@@ -1,4 +1,4 @@
-// controllers/rolesController.js
+
 const Rol = require('../models/rol');
 const Permiso = require('../models/permiso');
 

@@ -1,4 +1,4 @@
-// models/user.js
+
 const db = require('./db');
 
 module.exports = {
